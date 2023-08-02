@@ -1,0 +1,10 @@
+# folder
+/data/*
+*/__pycache__/*
+/pretrained_data/bert_base_uncased/model/*
+/pretrained_data/bert_base_uncased/tokenizer/*
+
+# file
+*.pyc
+.ipynb_checkpoints
+*.csv
